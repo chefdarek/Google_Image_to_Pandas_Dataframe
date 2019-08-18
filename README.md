@@ -40,6 +40,8 @@ A pandas dataframe (limit*search_queries,2) shape of Numpy Array images
 
 .make_df() creates the df and prints the shape
 
+.show_image(x) pass in a row and the image will return unlike your sanity
+
 ### To do
 
 add scaling options
