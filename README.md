@@ -42,6 +42,14 @@ A pandas dataframe (limit*search_queries,2) shape of Numpy Array images
 
 .show_image(x) pass in a row and the image will return unlike your sanity
 
+## Limited to 100 results unless....
+in the arguments block add
+"chromedriver" or cmd line ad "--cd" when you pass the search terms
+
+With this argument you can pass the path to the ‘chromedriver’:
+
+The path looks like this: “path/to/chromedriver”. In windows it will be “C:\path\to\chromedriver.exe”
+
 ### To do
 
 add scaling options
