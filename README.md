@@ -50,6 +50,8 @@ With this argument you can pass the path to the ‘chromedriver’:
 
 The path looks like this: “path/to/chromedriver”. In windows it will be “C:\path\to\chromedriver.exe”
 
+link to v76 driver needed https://chromedriver.storage.googleapis.com/index.html?path=76.0.3809.68/
+
 ### To do
 
 add scaling options
