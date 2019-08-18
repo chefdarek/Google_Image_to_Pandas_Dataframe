@@ -20,7 +20,7 @@ python 3.7 class GoogleImage_to_Labeled_Df(object):
 
 ## Takes:
 
-list_of_labels (serach terms) 
+list_of_labels (search terms) 
 
 limit (number of pictures you want)
 
